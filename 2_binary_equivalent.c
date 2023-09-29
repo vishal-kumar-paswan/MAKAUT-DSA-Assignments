@@ -10,7 +10,7 @@ int convertToBinary(int decimal_number)
 
 int main()
 {
-    printf("Enter a decimal number: ");
+    printf("Enter decimal number: ");
     int decimal_number;
     scanf("%d", &decimal_number);
 
